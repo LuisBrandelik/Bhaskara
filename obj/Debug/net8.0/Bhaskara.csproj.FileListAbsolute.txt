@@ -1,0 +1,14 @@
+C:\Users\user\Bhaskara\bin\Debug\net8.0\Bhaskara.exe
+C:\Users\user\Bhaskara\bin\Debug\net8.0\Bhaskara.deps.json
+C:\Users\user\Bhaskara\bin\Debug\net8.0\Bhaskara.runtimeconfig.json
+C:\Users\user\Bhaskara\bin\Debug\net8.0\Bhaskara.dll
+C:\Users\user\Bhaskara\bin\Debug\net8.0\Bhaskara.pdb
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.AssemblyInfo.cs
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.dll
+C:\Users\user\Bhaskara\obj\Debug\net8.0\refint\Bhaskara.dll
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.pdb
+C:\Users\user\Bhaskara\obj\Debug\net8.0\Bhaskara.genruntimeconfig.cache
+C:\Users\user\Bhaskara\obj\Debug\net8.0\ref\Bhaskara.dll
